@@ -23,7 +23,7 @@ function carregaItem(evento, opcaoMenu) {
 }
 
 // Executa esse código quando a página for carregada
-document.addEventListener("load", function(){
+window.addEventListener("load", function(){  
   // Obter o botão tab ativo
   let guiAtiva = document.querySelector(".vetorItens.guiAtiva");
 
