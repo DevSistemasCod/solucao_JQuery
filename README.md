@@ -6,6 +6,6 @@
 
 3) Faça uma animação com js e posteriormente em JQuery.
    
-4) Adicione a opção de trocar entre imagens usando.
+4) Adicione a opção de trocar entre imagens usando  usando js.
 
 5) Adicione efeito com alerta ou pop-up eu seu texto usando js (faça uma página em html para suportar o seu script).
